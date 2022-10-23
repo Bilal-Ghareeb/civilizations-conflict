@@ -2,7 +2,7 @@
 
 This project simulates old strategy games like Age of Empires and Stronghold.
 
-#----------------------------------------------------------------
+# ----------------------------------------------------------------
 
 The Game Offers Two Civilizations to choose from (Knights , Nomads)
 
@@ -35,7 +35,7 @@ Defend your Kingdom and slain your enemies !!
 
 ![attack](https://user-images.githubusercontent.com/79377889/197421327-b5b89917-77fb-4f49-8a7e-6bab86d389c5.gif)
 
-#----------------------------------------------------------------
+# ----------------------------------------------------------------
 
 All Assets are !! Free Licensed !! from Opengameart.com
 
